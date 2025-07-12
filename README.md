@@ -4,7 +4,7 @@ An end-to-end Power BI dashboard designed to help hotel managers, analysts, and 
 
 This project dives deep into hotel data to answer critical business questions and support data-driven decision-making.
 
-![Dashboard Screenshot](./Screenshot%202025-07-12%20154109.png)
+![Dashboard Screenshot](https://github.com/prabalpkd/Hotel-Bookings-Analysis/blob/main/Snapshot%2001.png)
 
 ---
 
